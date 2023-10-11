@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var mostrarMensagemBtn = document.getElementById("mostrarMensagem");
 
     mostrarMensagemBtn.addEventListener("click", function () {
-        mensagem.innerHTML = "Querido professor, sua dedicação e paixão pela educação são verdadeiramente admiráveis, "
-        "Por isso, queremos desejar muita felicidade e reconhecimento! Feliz Dia do Professor " +
+        mensagem.innerHTML = "Querido professor, sua dedicação e paixão pela educação são verdadeiramente admiráveis, " +
+        "Por isso, queremos desejar muita felicidade e reconhecimento! Feliz Dia do Professor, " +
     
     });
 });
